@@ -1,4 +1,4 @@
-# LXXUploadPic－图片上传UI框架
+# LXXUploadPic－图片上传UI框架  - 不错的 文件上传界面模版
 
 ## 简介
 #### LXXUploadPic是一个用户上传图片的Web前端框架，在引入头文件的前提下，开发者只需要在HTML源码中添加一行标记就能够在页面上生成美观的UI。该框架基于JQuery，使用了HTML、CSS、Javascript完成。
